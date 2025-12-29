@@ -1,16 +1,12 @@
-Here’s a professional **README guide** for your Wax Veil game, formatted for clarity and ease of use:
+Wax Veil – User Guide
+
+Introduction
+
+Welcome to Wax Veil, a low-poly horror game where you explore a haunted museum, collect missing mask fragments, and face a mysterious enemy. This guide will help you get started with installation, controls, and gameplay tips.
 
 ---
 
-# Wax Veil – User Guide
-
-## **Introduction**
-
-Welcome to **Wax Veil**, a low-poly horror game where you explore a haunted museum, collect missing mask fragments, and face a mysterious enemy. This guide will help you get started with installation, controls, and gameplay tips.
-
----
-
-## **How to Use the Zip File of the Build**
+How to Use the Zip File of the Build
 
 1. Download the **Wax Veil build zip file**.
 2. Extract the zip file to a folder on your computer.
@@ -83,5 +79,6 @@ If you encounter issues while playing, please check that:
 * Your system meets minimum requirements.
 * You are running the **latest version of the build**.
 * All files were correctly extracted from the zip.
+
 
 
