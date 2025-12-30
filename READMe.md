@@ -1,6 +1,6 @@
-Zip File: https://drive.google.com/file/d/1fVVTbeyCrcBB5ky9IMHDkEDtt-krjQ4Y/view?usp=sharing
+Zip File: https://drive.google.com/file/d/1WbIio8Y3J77MPc4O27sDZbHXOaa708Bs/view?usp=sharing
 
-##Wax Veil – User Guide##
+Wax Veil – User Guide
 
 Introduction
 
@@ -81,6 +81,7 @@ If you encounter issues while playing, please check that:
 * Your system meets minimum requirements.
 * You are running the **latest version of the build**.
 * All files were correctly extracted from the zip.
+
 
 
 
