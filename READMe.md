@@ -61,6 +61,7 @@ Welcome to Wax Veil, a low-poly horror game where you explore a haunted museum, 
   * Mouse Sensitivity
   * Audio Volume
 * **Restart Game**
+* **Exit Game**
 * **Pause / Resume Game**
 
 ---
@@ -82,6 +83,7 @@ If you encounter issues while playing, please check that:
 * Your system meets minimum requirements.
 * You are running the **latest version of the build**.
 * All files were correctly extracted from the zip.
+
 
 
 
