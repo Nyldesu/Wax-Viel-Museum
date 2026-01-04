@@ -1,16 +1,15 @@
-Zip File: https://drive.google.com/file/d/1WbIio8Y3J77MPc4O27sDZbHXOaa708Bs/view?usp=sharing
+## **Zip File:**## https://drive.google.com/file/d/1WbIio8Y3J77MPc4O27sDZbHXOaa708Bs/view?usp=sharing
 
-Wax Veil – User Guide
+## **Wax Veil - User Guide**
 
-Introduction
-
+## **Introduction**
 Welcome to Wax Veil, a low-poly horror game where you explore a haunted museum, collect missing mask fragments, and face a mysterious enemy. This guide will help you get started with installation, controls, and gameplay tips.
 
 ---
 
-How to Use the Zip File of the Build
+##**How to Use the Zip File of the Build**
 
-1. Download the ##Wax Veil build zip file##.
+1. Download the ##**Wax Veil build zip file**.
 2. Extract the zip file to a folder on your computer.
 3. Open the extracted folder and double-click the executable (`.exe`) file to start the game.
 4. Ensure your system meets the minimum requirements for smooth gameplay.
@@ -21,12 +20,13 @@ How to Use the Zip File of the Build
 
 ### **Interaction Keys**
 
-| Key   | Action                                         |
-| ----- | ---------------------------------------------- |
-| **E** | Open/close doors, pick up objects              |
-| **B** | Reload stored battery one by one               |
-| **N** | Cover the enemy’s eyes to stop their movements |
-| **F** | Turn flashlight on/off                         |
+| Key     | Action                                         |
+| --------| ---------------------------------------------- |
+| **E**   | Open/close doors, pick up objects              |
+| **B**   | Reload stored battery one by one               |
+| **N**   | Cover the enemy’s eyes to stop their movements |
+| **F**   | Turn flashlight on/off                         |
+| **ESC** | Pause / Resume the Game                        |
 
 ### **Movement**
 
@@ -34,6 +34,7 @@ How to Use the Zip File of the Build
 | -------------- | ----------------------------------- |
 | **W, A, S, D** | Move forward, left, backward, right |
 | **Mouse**      | Look around / control camera        |
+| **Shift**      | To run faster                       |
 
 ---
 
@@ -81,6 +82,7 @@ If you encounter issues while playing, please check that:
 * Your system meets minimum requirements.
 * You are running the **latest version of the build**.
 * All files were correctly extracted from the zip.
+
 
 
 
